@@ -12,8 +12,14 @@ https://learning.snssdk.com/feoffline/toutiao_wallet_bundles/toutiao_learning_wa
 
 Kafka简单易学，只需要较短的时间学习，就可以学会Kafka应用开发，并结合实践，完成一个高可用集群的部署和高可用工程应用的开发。
 
-
+![](https://raw.githubusercontent.com/rickiechina/Kafka-In-Practice/master/kafka-book-1.png)
 
 # 作者 author
 
 作者在一线互联网公司工作多年，熟悉高并发和海量数据处理，具有丰富的系统架构实战经验。
+
+
+
+### 头条号：软件架构
+
+欢迎关注，欢迎交流 :)
