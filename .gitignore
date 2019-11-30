@@ -1,0 +1,6 @@
+# .gitignore
+.idea
+*.iml
+*.class
+
+*/*/target/*
