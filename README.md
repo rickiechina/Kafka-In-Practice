@@ -23,3 +23,5 @@ Kafka简单易学，只需要较短的时间学习，就可以学会Kafka应用�
 ### 头条号：软件架构
 
 欢迎关注，欢迎交流 :)
+
+![](https://raw.githubusercontent.com/rickiechina/Kafka-In-Practice/master/sa-logo.jpg)
