@@ -1,0 +1,7 @@
+app:
+  topic:
+    mytopic: mytopic
+logging:
+  level:
+    root: INFO
+    org.springframework.web: ERROR

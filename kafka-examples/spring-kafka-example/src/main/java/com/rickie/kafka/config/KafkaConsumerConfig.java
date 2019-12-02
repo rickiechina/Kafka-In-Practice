@@ -53,7 +53,7 @@ public class KafkaConsumerConfig {
         factory.setConcurrency(3);
         // 设置批量消费
         factory.setBatchListener(true);
-        //要设置监听容器的属性，比如轮询时间，只能是通过
+        // 要设置监听容器的属性，比如轮询时间，只能是通过
         // getContainerProperties().set()方法，来设置。
         factory.getContainerProperties().setPollTimeout(3000);
 

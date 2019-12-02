@@ -11,6 +11,7 @@
   <modules>
     <module>kafka-client-example</module>
     <module>spring-kafka-example</module>
+      <module>kafka-topic-example</module>
   </modules>
 
   <name>kafka-examples</name>
