@@ -1,6 +1,6 @@
 app:
   topic:
-    mytopic: mytopic
+    mytopic: topic-1
 logging:
   level:
     root: INFO

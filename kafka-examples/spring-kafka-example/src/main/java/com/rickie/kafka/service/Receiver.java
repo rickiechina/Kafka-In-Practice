@@ -23,6 +23,5 @@ public class Receiver {
         consumerRecordList.forEach(consumerRecord->{
             LOGGER.info("received key='{}', message='{}'", consumerRecord.key(), consumerRecord.value());
         });
-
     }
 }
